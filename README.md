@@ -1,2 +1,4 @@
 # GD_SAM_PD_YOLO
-A method for zero sample lightweight Camellia oleifera fruit detection
+A Zero-Shot Lightweight Method for Camellia oleifera Fruit Segmentation
+
+This code corresponds to the version used in the submitted manuscript.
